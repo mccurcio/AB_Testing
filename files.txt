@@ -1,7 +1,3 @@
-# AB_Testing
-This report describes work for the mythical company, catsVSdogs.com
-
-```
 .
 ├── data
 │   ├── AdSmartABdata.csv
@@ -40,6 +36,5 @@ This report describes work for the mythical company, catsVSdogs.com
 │   ├── M3-01-ABTests-REORGANIZED.ipynb
 │   └── M3-02-ABTest_Example1St.ipynb
 └── README.md
-```
-4 directories, 33 files
 
+4 directories, 33 files
