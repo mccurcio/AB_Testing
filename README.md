@@ -5,6 +5,7 @@ This report describes work for the mythical company, catsVSdogs.com
 .
 ├── MCurcio-AB-Testing.ipynb
 ├── README.md
+├── .gitignore
 ├── data
 │   ├── AdSmartABdata.csv
 │   └── AdSmartABdata.csv.zip
