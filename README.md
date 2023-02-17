@@ -1,7 +1,7 @@
 # AB_Testing
-- This report describes work for the mythical company CatsVsDogs.com: 
+- This report describes work for the mythical company catsVSdogs.com: 
   - [MCurcio-AB-Testing.ipynb](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.ipynb)
-- I use [Fisher's Exact Test](https://en.wikipedia.org/wiki/Fisher's_exact_test) and the [Phi-Coefficient test](https://en.wikipedia.org/wiki/Phi_coefficient), Instead of using the more common z-test.
+- I use [Fisher's Exact Test](https://en.wikipedia.org/wiki/Fisher's_exact_test) and the [Phi-Coefficient test](https://en.wikipedia.org/wiki/Phi_coefficient), instead of using the more common z-test.
 
 ```
 .
