@@ -10,7 +10,10 @@
 ---
 
 - [MCurcio-AB-Testing.ipynb](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.ipynb)
-- I use [Fisher's Exact Test](https://en.wikipedia.org/wiki/Fisher's_exact_test) and the [Phi-Coefficient](https://en.wikipedia.org/wiki/Phi_coefficient), instead of using the more common z-test.
+
+In this report, two icons are A/B tested on the ordering page of 'catsVSdogs.com'.
+
+The report finds that no changes to the icons should be made at this time.
 
 ```
 .
