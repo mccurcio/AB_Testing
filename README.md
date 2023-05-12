@@ -9,20 +9,19 @@
 
 ---
 
-- [MCurcio-AB-Testing.ipynb](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.ipynb)
+- [MCurcio-AB-Testing.ipynb](https://github.com/mccurcio/AB-Testing/blob/main/MCurcio-AB-Testing.ipynb)
 
 In this report, two icons are A/B tested on the ordering page of 'catsVSdogs.com'.
-
-The report finds that no changes to the icons should be made at this time.
 
 ```
 .
 ├── MCurcio-AB-Testing.ipynb
 ├── README.md
 ├── .gitignore
+├── LICENSE
 ├── data
-│   ├── AdSmartABdata.csv
-│   └── AdSmartABdata.csv.zip
+│   ├── AdSmartABdata - AdSmartABdata.csv.zip
+│   └── AdSmartABdata.csv
 ├── figures
 │   ├── browser_wordcloud.png
 │   ├── device_wordcloud.png
@@ -34,4 +33,3 @@ The report finds that no changes to the icons should be made at this time.
 │   ├── M3-01-ABTests-REORGANIZED.ipynb
 └── └── phi.odp
 ```
-3 directories, 13 files
