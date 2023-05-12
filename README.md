@@ -26,10 +26,5 @@ In this report, two icons are A/B tested on the ordering page of 'catsVSdogs.com
 │   ├── browser_wordcloud.png
 │   ├── device_wordcloud.png
 │   ├── small-cat.jpeg
-│   └── small-dog.jpeg
-├── notes
-│   ├── gfp732.pdf
-│   ├── M3-01-ABTests.ipynb
-│   ├── M3-01-ABTests-REORGANIZED.ipynb
-└── └── phi.odp
+└── └── small-dog.jpeg
 ```
